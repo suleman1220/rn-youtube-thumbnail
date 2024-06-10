@@ -1,1 +1,1 @@
-# Simple youtube vidoes fetching app
+# Simple youtube vidoes fetching react native app
