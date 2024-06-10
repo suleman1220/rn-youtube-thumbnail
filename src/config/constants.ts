@@ -6,6 +6,8 @@ const Q = 'programming';
 
 const MAX_RESULTS = 20;
 
+export const BASE_URL = 'https://www.googleapis.com/youtube/v3/search';
+
 const AVATAR_URL =
   'https://gravatar.com/avatar/4fbf8600201a06f837c1f4cc8572b810?s=200&d=robohash&r=x';
 

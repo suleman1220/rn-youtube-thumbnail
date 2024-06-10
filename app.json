@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mightybyte-react-native-challenge",
+    "name": "youtube-thumbnails",
     "slug": "snack-3a5c0fae-9fca-4863-9c34-095afefdb2f8",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },

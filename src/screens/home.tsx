@@ -10,8 +10,7 @@ import { Provider } from 'react-native-paper';
 import Constants from 'expo-constants';
 // @ts-ignore
 import Card from '../components/card';
-import { BASE_URL } from '@env';
-import { CARD_STYLES } from '../config/constants';
+import { BASE_URL, CARD_STYLES } from '../config/constants';
 import { getParams } from '../utils/utils';
 
 const getCardStyles = (width: any) => {
